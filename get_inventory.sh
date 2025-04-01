@@ -10,7 +10,7 @@ SWITCH_LIST="allswitches.txt"
 
 # Output header
 printf "\n%-15s | %-35s | %-5s | %-8s | %-35s | %-25s | %-20s | %-10s | %s\n" \
-"IP Address" "Hostname" "Idx" "Stack#" "Description" "Model" "Serial Number" "EOL?" "Notes"
+"IP Address" "Hostname" "Idx" "Stack#" "Description" "Model" "Serial Number" "Notes"
 printf -- "------------------------------------------------------------------------------------------------------------------------------------------------\n"
 
 # Loop through each switch
